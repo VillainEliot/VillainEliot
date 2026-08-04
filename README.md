@@ -1,10 +1,14 @@
-🎓 Étudiant en Licence STS Développement Web et Mobile
-📍 Lycée professionnel Saint Ursule, Caen
+# 🎓 Étudiant à Epitech Rennes – MSc (Master of Science)
 
-Je suis passionné par le développement web et mobile, avec une solide formation en programmation, gestion de bases de données et conception d'interfaces utilisateurs.
-Actuellement à la recherche d'une alternance d'un an pour mettre en pratique mes compétences dans un environnement professionnel stimulant.
+📍 Rennes, France
 
-Je suis particulièrement intéressé par les projets innovants alliant expertise technique et créativité.
-Mon objectif est d'intégrer une entreprise où je pourrai non seulement contribuer activement à des projets concrets, mais aussi développer mes compétences aux côtés d'une équipe performante.
+Passionné par le développement logiciel, l’intelligence artificielle et la data, je poursuis actuellement un **MSc à Epitech Rennes** avec une spécialisation en **IA et Big Data**.
 
-Je suis motivé, rigoureux et toujours désireux d'apprendre. N'hésitez pas à me contacter pour toute opportunité ou collaboration.
+Mon parcours m’a permis d’acquérir une solide base en **développement web et mobile**, **programmation**, **bases de données** et **conception d’applications**, que je complète aujourd’hui par des compétences en **machine learning**, **traitement et analyse de données**, **architecture de systèmes** et **technologies Big Data**.
+
+Je m’intéresse particulièrement aux projets innovants qui combinent **ingénierie logicielle**, **intelligence artificielle** et **exploitation de la donnée**, avec une forte dimension technique et créative.
+
+Mon objectif est de rejoindre une équipe où je pourrai **concevoir, développer et optimiser des solutions à fort impact**, tout en continuant à progresser aux côtés de professionnels expérimentés.
+
+Je suis **motivé, rigoureux, curieux et toujours prêt à relever de nouveaux défis**. N’hésitez pas à me contacter pour échanger autour d’un projet, d’une collaboration ou d’une opportunité professionnelle.
+
